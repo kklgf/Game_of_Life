@@ -1,0 +1,9 @@
+{
+  'limitedMap': true,
+  'lifeKnowingNeighbourhood': true,
+  'width': 10,
+  'height': 5,
+  'numberOfTurns': 10,
+  'toStayAlive': [2,3],
+  'toBecomeAlive': [3]
+}
